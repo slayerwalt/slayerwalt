@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slayerwalt&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="https://raw.githubusercontent.com/slayerwalt/slayerwalt/main/github-metrics.svg" alt="Metrics" width="400">
